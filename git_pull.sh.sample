@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ## 修改日期：2020-10-19
-## 作者：Evine Deng <evinedeng@foxmail.com>
+## 1111
 
 export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 export LC_ALL=C
